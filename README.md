@@ -4,7 +4,7 @@ This repository contains implementation of heuristic algorithms for computing an
 The algorithms are described in the paper
 
 ```
-"Clique covering of large real-world networks" by Alessio Conte, Roberto Grossi and Andrea Marino
+**Clique covering of large real-world networks** by Alessio Conte, Roberto Grossi and Andrea Marino
 ```
 ( available at: https://dl.acm.org/citation.cfm?doid=2851613.2851816 )
 
