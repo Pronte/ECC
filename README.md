@@ -18,6 +18,7 @@ java -jar ECC8.jar
 ```
 
 As for the code, the key classes are in the package `it.unipi.di.ecc.smallg`
+
 To run, use class `it.unipi.di.ecc.run.ECCrun`
 
 For best performance, provide the graph in `.nde` (nodes-degrees-edges) format:
