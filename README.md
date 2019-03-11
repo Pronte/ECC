@@ -16,3 +16,11 @@ The software is written in Java 8. Instructions are displayed by running the jar
 ```
 java -jar ECC8.jar
 ```
+
+As for the code, the key classes are in the package 'it.unipi.di.ecc.smallg'
+To run, use class 'it.unipi.di.ecc.run.ECCrun'
+
+For best performance, provide the graph in '.nde' (nodes-degrees-edges) format:
+- one line with the number of nodes
+- for each node, one line containing the node's ID (integer) and its degree
+- finally, the list of edges (pair of IDs separated by space, one on each line in any order)
